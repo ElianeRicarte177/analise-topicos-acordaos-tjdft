@@ -2,7 +2,7 @@
 Coleta de Acórdãos - TJDFT / JurisDF
 ======================================
 Projeto: Auditoria Algorítmica do OdinGPT (corpus de ações de alimentos)
-Filtros: 7ª Turma Cível | 2024-01-01 a 2025-12-31
+Filtros: 7ª Turma Cível | 2022-01-01 a 2025-12-31
 API: POST https://jurisdf.tjdft.jus.br/api/v1/pesquisa
 """
 
